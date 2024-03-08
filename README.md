@@ -14,7 +14,7 @@ Model Architecture\
 Future Work\
 Troubleshooting\
 Credits\
-License
+Contact Info
 
 
 ## Description
@@ -36,7 +36,7 @@ This project implements a HealthCare Chatbot for disease detection based on symp
 
 ## Dataset
 
-The project utilizes a dataset containing symptom-disease mappings for disease prediction. The dataset is included in this repository and can be obtained from sources like kaggle. 
+The project utilizes a dataset containing symptom-disease mappings for disease prediction. The dataset is included in this repository (https://github.com/codewithsomi/Symptom-Based-Disease-Prediction-Chatbot-Using-NLP/tree/main/Data) and can be obtained from sources like kaggle. 
 
 ## Model Architecture
 
@@ -63,3 +63,7 @@ If you encounter any issues while running the chatbot, try the following trouble
 3. Regular expression for pattern matching
 4. sklearn library for preprocessing, building models, and evaluating performance
 5. Seaborn and Matplotlib for visualization
+
+## Contact Information
+
+For questions, feedback, or contributions, please contact Saumya at saumya.rastogi.03@gmail.com
