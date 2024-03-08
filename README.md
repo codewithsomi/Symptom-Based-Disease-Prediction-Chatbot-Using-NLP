@@ -7,13 +7,13 @@ A cutting-edge AI-powered health diagnosis chatbot that leverages machine learni
 ## Table of Contents
 
 Description\
-Installation\
-Data\
-Cleaning Funciton\
-Model Developmnt\
-Confusion Matrix and Accuracy\
-Results\
-Contributing\
+Features\
+Usage\
+Dataset\
+Model Architecture\
+Future Work\
+Troubleshooting\
+Credits\
 License
 
 
@@ -23,7 +23,43 @@ This project implements a HealthCare Chatbot for disease detection based on symp
 
 ## Features
 
-**Symptom Analysis**: Users can input their symptoms, and the chatbot will analyze them to identify potential diseases.
-Recommendations: The chatbot provides recommendations based on the identified diseases, including precautions and possible treatments.
-User-Friendly Interface: The chatbot is designed with a user-friendly interface to facilitate easy interaction and understanding.
+*Symptom Analysis*: Users can input their symptoms, and the chatbot will analyze them to identify potential diseases.
+*Recommendations*: The chatbot provides recommendations based on the identified diseases, including precautions and possible treatments.
+*User-Friendly Interface*: The chatbot is designed with a user-friendly interface to facilitate easy interaction and understanding.
 
+## Usage
+
+1. Launch the chatbot application.
+2. Enter the symptoms you are experiencing when prompted.
+3. Follow the chatbot's instructions to provide additional information if necessary.
+4. Receive disease predictions and recommendations from the chatbot.
+
+## Dataset
+
+The project utilizes a dataset containing symptom-disease mappings for disease prediction. The dataset is included in this repository and can be obtained from sources like kaggle. 
+
+## Model Architecture
+
+The disease detection model is built using machine learning algorithms, specifically Decision Trees and Support Vector Classification (SVC). It analyzes user-reported symptoms to predict potential diseases based on learned patterns.
+
+## Future Work
+
+1. Enhance the chatbot's accuracy by incorporating more comprehensive symptom-disease mappings.
+2. Integrate additional features such as user history tracking and personalized recommendations.
+3. Deploy the chatbot as a web or mobile application for broader accessibility.
+
+## Troubleshooting
+
+If you encounter any issues while running the chatbot, try the following troubleshooting steps:
+
+1. Check that all dependencies are properly installed.
+2. Ensure that the dataset is accessible and formatted correctly.
+3. Verify that the chatbot application is using the correct input/output channels.
+
+## Credits
+
+1. Numpy and pandas for mathematical operations
+2. For reading csv dataset files: csv module
+3. Regular expression for pattern matching
+4. sklearn library for preprocessing, building models, and evaluating performance
+5. Seaborn and Matplotlib for visualization
