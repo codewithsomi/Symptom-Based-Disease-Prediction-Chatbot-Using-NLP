@@ -4,9 +4,12 @@
 
 Introduction
 
-Description/
-Features/
-Usage/
+Description
+
+Features
+
+Usage
+
 Dataset/
 Model Architecture/
 Future Work/
