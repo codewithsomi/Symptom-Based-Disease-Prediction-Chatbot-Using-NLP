@@ -8,7 +8,7 @@ A cutting-edge AI-powered health diagnosis chatbot that leverages machine learni
 
 ## Table of Contents
 
-Introduction\
+Description\
 Installation\
 Data\
 Cleaning Funciton\
@@ -19,4 +19,8 @@ Contributing\
 License
 
 
-## Introduction: 
+## Description
+
+This project implements a HealthCare Chatbot for disease detection based on symptoms. The chatbot utilizes machine learning algorithms, particularly Decision Trees and Support Vector Classification (SVC), for disease prediction. It analyzes user-reported symptoms to identify potential diseases and provides relevant recommendations.
+
+
