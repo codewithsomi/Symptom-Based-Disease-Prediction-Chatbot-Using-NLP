@@ -24,7 +24,9 @@ This project implements a HealthCare Chatbot for disease detection based on symp
 ## Features
 
 1.*Symptom Analysis*: Users can input their symptoms, and the chatbot will analyze them to identify potential diseases.
+
 2. *Recommendations*: The chatbot provides recommendations based on the identified diseases, including precautions and possible treatments.
+
 3. *User-Friendly Interface*: The chatbot is designed with a user-friendly interface to facilitate easy interaction and understanding.
 
 ## Usage
