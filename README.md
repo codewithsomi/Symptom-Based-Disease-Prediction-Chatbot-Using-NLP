@@ -6,16 +6,17 @@ A cutting-edge AI-powered health diagnosis chatbot that leverages machine learni
 
 ## Table of Contents
 
-Introduction/
-Description/
-Features/
-Usage/
-Dataset/
-Model Architecture/
-Future Work/
-Troubleshooting/
-Credits/
-Contact Information
+## Table of Contents
+
+Introduction\
+Installation\
+Data\
+Cleaning Funciton\
+Model Developmnt\
+Confusion Matrix and Accuracy\
+Results\
+Contributing\
+License
 
 
 ## Introduction: 
