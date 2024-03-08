@@ -1,15 +1,15 @@
 # Symptom-Based-Disease-Prediction-Chatbot-Using-NLP
 
-## Table of Contents:
+## Overview 
 
-Introduction
+A cutting-edge AI-powered health diagnosis chatbot that leverages machine learning to interpret symptoms and predict potential medical conditions. Designed to improve healthcare accessibility, this chatbot offers instant, reliable health insights, guiding users towards informed medical decisions.
 
-Description
+## Table of Contents
 
-Features
-
-Usage
-
+Introduction/
+Description/
+Features/
+Usage/
 Dataset/
 Model Architecture/
 Future Work/
@@ -19,4 +19,3 @@ Contact Information
 
 
 ## Introduction: 
-A cutting-edge AI-powered health diagnosis chatbot that leverages machine learning to interpret symptoms and predict potential medical conditions. Designed to improve healthcare accessibility, this chatbot offers instant, reliable health insights, guiding users towards informed medical decisions.
