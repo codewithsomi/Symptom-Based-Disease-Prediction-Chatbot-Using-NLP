@@ -2,7 +2,8 @@
 
 ## Table of Contents:
 
-Introduction/
+Introduction
+
 Description/
 Features/
 Usage/
